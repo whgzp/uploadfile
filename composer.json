@@ -1,0 +1,24 @@
+{
+    "name": "hidy/uploadfile",
+    "description": "a public common package",
+    "type": "library",
+    "require": {
+        "php": ">=5.7.0"
+    },
+    "require-dev": {
+        "php": ">=5.7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hidy",
+            "email": "505937370@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hidy\\": "src/"
+        }
+    }
+}
